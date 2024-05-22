@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Log in with password</name>
+   <tag></tag>
+   <elementGuidId>6ce4571d-a3fd-42d6-861b-dcb8cc188e0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='u_0_1_YB']/div/div[3]/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a._aklt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>93a8ba35-9f2d-41bc-911b-93c23085e0f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_aklt</value>
+      <webElementGuid>983e0d11-3660-43bb-a973-5a8c6ce1c087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login/web/?cuid=AYjAK2bnlIsDN9z1ZfUjPSkr1LVzFSYgLdTZLf7XQZ9WKPq7Y8LfluvueVn1RC8x8e81CGlmqQ0FbBCYwoIiW8u0u7YRIe9FMitxonQoQ9a4ozl_IqVP5S9hfGHhE3auIcm2eJtD2ye0m_m-yKhn__U4exSvpnRfguKufBI3WiAUs2BVWVLzBgOS734BfjKJpYA6qU6oCUeDiW2xCwgRGbuEBdYtMm1P5ZANvy1jUPZO6s_kmQJfgvYXatiWWA3EKHw&amp;email=083130066682&amp;is_from_lara=1</value>
+      <webElementGuid>25128972-46a9-4935-b03f-6b23eabb1eec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in with password</value>
+      <webElementGuid>d701995d-8845-4d1a-b8b1-00c3d1c321c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u_0_1_YB&quot;)/div[@class=&quot;mtl mbm ptm uiInterstitial _aklr uiInterstitialLarge uiBoxWhite&quot;]/div[@class=&quot;uiInterstitialBar _amyj uiBoxGray topborder&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;pts&quot;]/a[@class=&quot;_aklt&quot;]</value>
+      <webElementGuid>10501311-38e0-45b7-9b2c-62976f9884ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='u_0_1_YB']/div/div[3]/div/div[2]/a</value>
+      <webElementGuid>1585aa80-1951-4e3e-9c37-404827c47000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Log in with password')]</value>
+      <webElementGuid>99cad545-8481-4a1d-b2c7-60b7b02e2682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/following::a[1]</value>
+      <webElementGuid>46c79f02-65be-41b0-9471-be1bbe1139c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try another way'])[1]/following::a[1]</value>
+      <webElementGuid>7a499d17-43a3-420c-9b6b-4e274be7c8fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English (UK)'])[1]/preceding::a[1]</value>
+      <webElementGuid>41781a2d-b08b-4f6c-9bc3-e35d1768606d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/preceding::a[1]</value>
+      <webElementGuid>e2b672cf-3793-4cd4-8f12-a93692c6324b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log in with password']/parent::*</value>
+      <webElementGuid>2f60cd11-4eba-43ef-8937-7bc61457f7b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login/web/?cuid=AYjAK2bnlIsDN9z1ZfUjPSkr1LVzFSYgLdTZLf7XQZ9WKPq7Y8LfluvueVn1RC8x8e81CGlmqQ0FbBCYwoIiW8u0u7YRIe9FMitxonQoQ9a4ozl_IqVP5S9hfGHhE3auIcm2eJtD2ye0m_m-yKhn__U4exSvpnRfguKufBI3WiAUs2BVWVLzBgOS734BfjKJpYA6qU6oCUeDiW2xCwgRGbuEBdYtMm1P5ZANvy1jUPZO6s_kmQJfgvYXatiWWA3EKHw&amp;email=083130066682&amp;is_from_lara=1')]</value>
+      <webElementGuid>83a590ac-bd89-4a55-8edb-76cc4acfde2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>9b80b646-df75-4343-afb6-e4c53ced93eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/login/web/?cuid=AYjAK2bnlIsDN9z1ZfUjPSkr1LVzFSYgLdTZLf7XQZ9WKPq7Y8LfluvueVn1RC8x8e81CGlmqQ0FbBCYwoIiW8u0u7YRIe9FMitxonQoQ9a4ozl_IqVP5S9hfGHhE3auIcm2eJtD2ye0m_m-yKhn__U4exSvpnRfguKufBI3WiAUs2BVWVLzBgOS734BfjKJpYA6qU6oCUeDiW2xCwgRGbuEBdYtMm1P5ZANvy1jUPZO6s_kmQJfgvYXatiWWA3EKHw&amp;email=083130066682&amp;is_from_lara=1' and (text() = 'Log in with password' or . = 'Log in with password')]</value>
+      <webElementGuid>d9728faa-bfeb-4f62-bf51-f123dde269df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
